@@ -1,16 +1,38 @@
-## Hi there 👋
+### Olá, sou o Cauã 👋
+
+Estudante de Engenharia de Software (UEM, 6º período), construindo minha trajetória em direção à **Engenharia de Dados e IA**.
+
+- 🔭 Atualmente atuo como estagiário de TI na **Tributech**, trabalhando com SIG, dados georreferenciados e migração de dados em PostgreSQL.
+- 🌱 Estudando **Pandas**, aprofundando SQL e explorando pipelines de dados.
+- 🎯 Objetivo: transição para uma vaga júnior em Dados/IA.
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/cauakarach) · karachbr@gmail.com
+
+---
+
+#### 🛠️ Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+
+---
+
+#### 📌 Projetos em destaque 
 
 <!--
-**karachh/karachh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Substitua pelos seus projetos assim que estiverem organizados no GitHub.
+Formato sugerido por projeto:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**[Nome do Projeto](link-do-repo)**
+Uma linha curta explicando o que o projeto faz e qual problema resolve.
+`Tecnologias: Python, Pandas, SQLite`
 -->
+
+*(em construção — projetos de tratamento e análise de dados sendo organizados)*
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karachh&show_icons=true&theme=default)
