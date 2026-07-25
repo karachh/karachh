@@ -22,6 +22,9 @@ Estudante de Engenharia de Software (UEM, 6º período), construindo minha traje
 
 #### 📌 Projetos em destaque 
 
+**[Pipeline de Cotação do Dólar](https://github.com/karachh/pipeline-dolar)**
+Pipeline ETL que consome a API do Banco Central para coletar a cotação do dólar dos últimos 12 meses, com queries SQL para cálculo de médias, somas e outras agregações.
+
 <!--
 Substitua pelos seus projetos assim que estiverem organizados no GitHub.
 Formato sugerido por projeto:
