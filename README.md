@@ -1,6 +1,6 @@
 ### Olá, sou o Cauã 👋
 
-Estudante de Engenharia de Software (UEM, 6º período), construindo minha trajetória em direção à **Engenharia de Dados e IA**.
+Estudante de Engenharia de Software (UEM, 6º semestre), construindo minha trajetória em direção à **Engenharia de Dados e IA**.
 
 - 🔭 Atualmente atuo como estagiário de TI na **Tributech**, trabalhando com SIG, dados georreferenciados e migração de dados em PostgreSQL.
 - 🌱 Estudando **Pandas**, aprofundando SQL e explorando pipelines de dados.
