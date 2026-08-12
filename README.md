@@ -1,8 +1,8 @@
-### Olá, sou o Cauã 👋
+### Olá, me chamo Cauã!
 
 Estudante de Engenharia de Software (UEM, 6º semestre), construindo minha trajetória em direção à **Engenharia de Dados e IA**.
 
-- 🔭 Atualmente atuo como estagiário de TI na **Tributech**, trabalhando com SIG, dados georreferenciados e migração de dados em PostgreSQL.
+- 🔭 Atualmente atuo Analista de Sistema **Tributech**, trabalhando com SIG, dados georreferenciados e migração de dados em PostgreSQL.
 - 🌱 Estudando **Pandas**, aprofundando SQL e explorando pipelines de dados.
 - 🎯 Objetivo: transição para uma vaga júnior em Dados/IA.
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/cauakarach) · karachbr@gmail.com
