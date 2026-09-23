@@ -2,9 +2,9 @@
 
 Estudante de Engenharia de Software (UEM, 6º semestre), construindo minha trajetória em direção à **Engenharia de Dados e IA**.
 
-- 🔭 Atualmente atuo Analista de Sistema **Tributech**, trabalhando com SIG, dados georreferenciados e migração de dados em PostgreSQL.
-- 🌱 Estudando **Pandas**, aprofundando SQL e explorando pipelines de dados.
-- 🎯 Objetivo: transição para uma vaga júnior em Dados/IA.
+- 🔭 Atualmente atuo Analista de Desenvolvimento de Sistema **Tributech**, trabalhando com SIG, dados georreferenciados e migração de dados em PostgreSQL, construindo integrações.
+- Estudando pipelines de dados, ETL e IA.
+- Seguir carreira em Engenharia de Dados/IA.
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/cauakarach) · karachbr@gmail.com
 
 ---
@@ -14,7 +14,6 @@ Estudante de Engenharia de Software (UEM, 6º semestre), construindo minha traje
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 
