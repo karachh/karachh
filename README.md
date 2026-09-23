@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Software (UEM, 6º semestre), construindo minha trajetória em direção à **Engenharia de Dados e IA**.
 
-- 🔭 Atualmente atuo Analista de Desenvolvimento de Sistema **Tributech**, trabalhando com SIG, dados georreferenciados e migração de dados em PostgreSQL, construindo integrações.
+- Atualmente atuo Analista de Desenvolvimento de Sistema **Tributech**, trabalhando com SIG, dados georreferenciados e migração de dados em PostgreSQL, construindo integrações.
 - Estudando pipelines de dados, ETL e IA.
 - Seguir carreira em Engenharia de Dados/IA.
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/cauakarach) · karachbr@gmail.com
