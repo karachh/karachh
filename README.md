@@ -25,7 +25,7 @@ Estudante de Engenharia de Software (UEM, 6º semestre), construindo minha traje
 Pipeline ETL que consome a API do Banco Central para coletar a cotação do dólar dos últimos 12 meses, com queries SQL para cálculo de médias, somas e outras agregações.
 
 **[Formatech](https://github.com/karachh/formatech)**
-🚧 *Em desenvolvimento.* Sistema web para controle das turmas de formação de um grupo de oração, substituindo planilhas e mensagens de grupo. Já tem o cadastro de ciclos (abrir, editar e encerrar); o cronograma com escalação de formadores, a presença em lote e as consultas de cobertura da apostila vêm a seguir. Projeto em equipe da disciplina de Construção de Software (UEM).
+*Em desenvolvimento.* Sistema web para controle das turmas de formação de um grupo de oração, substituindo planilhas e mensagens de grupo. Projeto em equipe da disciplina de Construção de Software (UEM).
 `Tecnologias: Python, Django, PostgreSQL, Docker`
 
 <!--
