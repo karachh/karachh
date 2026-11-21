@@ -34,6 +34,9 @@ Portfólio: [cauakarach.vercel.app](https://cauakarach.vercel.app)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white)
 
 ---
 
@@ -58,6 +61,10 @@ Pipeline ETL que extrai a cotação diária do dólar da API do Banco Central, c
 **[Estudos](https://github.com/karachh/estudos-app)**
 PWA offline que reúne meus estudos em módulos, com progresso por etapa e o roadmap de Engenharia de Dados e IA que estou seguindo.
 `Tecnologias: React, TypeScript, Tailwind, IndexedDB`
+
+**[CineTrack](https://github.com/brunovfelix/cinetrack_progweb_UEM)**
+*Em desenvolvimento.* Catálogo de filmes com busca, filtro por status, nota e comentário. Projeto em dupla com [@brunovfelix](https://github.com/brunovfelix) na disciplina de Programação Web da UEM: começou em HTML, CSS e JavaScript puro e foi migrado para React.
+`Tecnologias: HTML, CSS, JavaScript, React, Vite`
 
 ---
 
